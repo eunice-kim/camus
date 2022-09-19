@@ -115,11 +115,7 @@ a:visited {
   color:#000000;
 }
 
-.white-text {
-  color:#FFFFFF;
-}
-
-.white-text a:visited {
+.white-text, .white-text a, .white-text a:visited {
   color:#FFFFFF;
 }
 
