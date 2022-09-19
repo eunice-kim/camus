@@ -107,11 +107,12 @@ html, body {
 a {
   text-decoration:none;
   float:right;
+  color:#000000;
 }
 
 a:visited {
   text-decoration:none;
-  color:black;
+  color:#000000;
 }
 
 .white-text {
@@ -138,7 +139,7 @@ a:visited {
   position:absolute;
   width: 4vmin;
   height: 250vh;
-  background-color:white;
+  background-color:#FFFFFF;
   margin:-75vh 0 0 50vw;
   transform-origin:center center;
 }
@@ -389,7 +390,7 @@ a:visited {
     width:335px;
     height:335px;
     margin:43vh 0 0 55vw;
-    background-color:black;
+    background-color:#000000;
     transform:rotate(40deg);
     animation: vibration-medium-square 1s reverse infinite;
   }
